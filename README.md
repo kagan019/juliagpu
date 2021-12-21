@@ -1,3 +1,6 @@
+# kagan019's fork of a Julia GPU ETHZ class
+this is my fork where you can see how I complete some of the exercises. see the `notebooks` folder inside both `slide-notebooks` and `exercise-notebooks`
+
 ## 101-0250-00: Solving partial differential equations in parallel on GPUs
 
 👉 [**Go to course website**](https://eth-vaw-glaciology.github.io/course-101-0250-00/)
